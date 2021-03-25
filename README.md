@@ -1,5 +1,7 @@
 # Exercício Pull Request
 
+(EXERCICIO PRONTO NO REPOSITORIO "REVISAO DE CODIGO"
+
 O objetivo dessa atividade é praticar a parte de revisão e refatoração.
 
 **Considere a seguinte descrição em alto nível da funcionalidade do código:**  
